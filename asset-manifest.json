@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflix-clonning-2024-1/static/css/main.3bc7bb37.css",
+    "main.js": "/netflix-clonning-2024-1/static/js/main.37488ecd.js",
+    "index.html": "/netflix-clonning-2024-1/index.html",
+    "main.3bc7bb37.css.map": "/netflix-clonning-2024-1/static/css/main.3bc7bb37.css.map",
+    "main.37488ecd.js.map": "/netflix-clonning-2024-1/static/js/main.37488ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc7bb37.css",
+    "static/js/main.37488ecd.js"
+  ]
+}
